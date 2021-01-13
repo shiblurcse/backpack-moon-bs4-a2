@@ -1,0 +1,37 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+/* nav section starts */
+.nav-sec{
+    background-color: #FFFFF4;
+}
+.nav-img{
+    width: 291.11px;
+    height: 39.27px;
+}
+.nav-li-link a{
+    color: #3C3C3C;
+    font-size: 16px;
+    padding: 30px;
+    font-weight: 800;
+}
+/* nav section ends */
+
+/* Backpack Moon section starts  */
+.button{
+    background-color: #2A1E59;
+    padding: 15px 30px;
+    border-radius: 10px;
+}
+.cart{
+    margin-right: 8px;
+}
+.backpack h1{   
+    font-family: 'Bebas Neue', cursive;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 80px;  
+    width: 255px;
+    height: 160px;
+}
+/* Backpack Moon section ends */
